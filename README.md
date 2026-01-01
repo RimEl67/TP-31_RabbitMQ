@@ -31,8 +31,5 @@ Le TP est structuré en **deux mini-projets progressifs** :
 
 <img width="931" height="469" alt="image" src="https://github.com/user-attachments/assets/93d8caac-8421-4d29-88e1-640d8f47db05" />
 
-<img width="1177" height="474" alt="image" src="https://github.com/user-attachments/assets/04f19dab-525e-49d3-9e3f-9e8274d34045" />
-
-<img width="1070" height="498" alt="image" src="https://github.com/user-attachments/assets/ec3262fd-20df-4c62-9c00-af51edce1bb4" />
 
 <img width="1108" height="478" alt="image" src="https://github.com/user-attachments/assets/79f0129c-a707-4ff7-adcf-87bdbb5bb162" />
